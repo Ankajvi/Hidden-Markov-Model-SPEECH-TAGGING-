@@ -1,1 +1,1 @@
-# NLP-speech-tagger-HMM-UDACITY
+# NLP-speech-tagger-HMM
